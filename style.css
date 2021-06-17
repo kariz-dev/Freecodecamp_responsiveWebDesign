@@ -1,4 +1,8 @@
 body {
-    color: green;
-    font-family: monospace;
+  color: green;
+  font-family: monospace;
+}
+
+.pink-text {
+  color: pink
 }
